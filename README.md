@@ -12,6 +12,6 @@
 
 ## objectives
 
-An easy way to generate apis structures for Rust,Python & python serverless code structures.
+An easy way to generate apis & services structures for Rust,Python & python serverless code structures.
 
 WIP
